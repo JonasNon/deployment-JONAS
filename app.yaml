@@ -1,4 +1,4 @@
-runtime: nodejs10
+runtime: nodejs18
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: sinuous-transit-429223-g0:us-central1:sakila
